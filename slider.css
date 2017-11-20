@@ -1,0 +1,16 @@
+.list.active
+{
+	display: block;
+}
+
+.list
+{
+	display: none;
+}
+
+.flex
+{
+	display: flex;
+	height: 281px;
+	width: 1062px;
+}
